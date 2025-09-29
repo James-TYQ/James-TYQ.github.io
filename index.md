@@ -12,12 +12,11 @@ My research involves magnetoelectric ("ME") materials for energy-efficient infor
 
 ## Research Interest
 
-- **Ion-material Simulation:** SRIM, SDTrimSP, RustBCA
-- **Ion Irradiation/Implantation**
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **E-field controlled magnetization** VCMA, Strain-mediated ME (Magnetoelectric) Effects, Straintronic, iontronic, E-filed induced spin reorientation, SOT.
-- **Micro-, Nanofabrication**
-- **Neuromorphic Computing** Neuromorphic Sensing and Perception, Hybrid Computing Systems, Brain-Inspired Robotics
+- **Natural Language Processing**
+- **Large Language Models**
+- **AI for Science:** Biology, Chemistry, Virtual Cell
+- **Retrieval-Augmented Generation** 
+- **Reinforcement Learning**
 
 ## Education
 - **B.S. in Computer Engineering**, 2022 - 2026 (Expected), [University of Illinois Urbana-Champaign](https://illinois.edu), USA
