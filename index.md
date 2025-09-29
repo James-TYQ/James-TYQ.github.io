@@ -22,16 +22,10 @@ During my undergraduate studies, I interned at ZJUKG in ZJU, supervised by Dr. [
 - **B.S. in Computer Engineering**, 2022 - 2026 (Expected), [University of Illinois Urbana-Champaign](https://illinois.edu), USA
 - **B.E. in Electrical and Computer Engineering**, 2022 - 2026 (Expected), [Zhejiang University](https://www.zju.edu.cn), China
 
-## Grants and Fellowships
-- **Marie Skłodowska-Curie Actions (MSCA) Individual Fellowship**, 2020-2024, Early Stage Researcher (ESR), Grant Number: 864415
-
-## Professional Affiliations
-- **Marie Curie Alumni Association Member**, 2021 - Present
-- **The European Magnetism Association (EMA) Member**, 2021 - Present
-
-## Certificates
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="343635de-7d0f-43ea-922d-432566a4b1e5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+## Honors and Awards
+- **Zhejiang University Second-class Scholarship**, June 2024
+- **Academic Excellence Student, Innovation Excellence Student**, September 2024
+- **Best Project Award, Westlake University AI Summer School**, August 2023
 
 {% include_relative _includes/news.md %}
 
