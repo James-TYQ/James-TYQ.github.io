@@ -20,13 +20,8 @@ My research involves magnetoelectric ("ME") materials for energy-efficient infor
 - **Neuromorphic Computing** Neuromorphic Sensing and Perception, Hybrid Computing Systems, Brain-Inspired Robotics
 
 ## Education
-- **Ph.D. in Physics**, 2021 - 2024, [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), France
-- **M.Sc. in Materials Science**, 2017 - 2021, [RWTH-Aachen](https://www.rwth-aachen.de/go/id/a/?lidx=1), Germany
-- **B.Sc. in Materials Science**, 2009 - 2013, [Nanjing Tech Univeristy](https://www.njtech.edu.cn/), China
-- **German Certificate**, 2011 - 2012, [Nanjing Univeristy](https://www.nju.edu.cn/), China
-- **Coursera Certificate**, 2024 - present, [Coursera](https://www.coursera.org/), Online
-  - [Business English](https://blog.songchen.science/documents/coursera/6B4CVLYK9ASD.pdf)
-  - [Google Project Management](https://blog.songchen.science/documents/coursera/GPM.pdf)
+- **B.S. in Computer Engineering**, 2022 - 2026 (Expected), [University of Illinois Urbana-Champaign](https://illinois.edu), USA
+- **B.E. in Electrical and Computer Engineering**, 2022 - 2026 (Expected), [Zhejiang University](https://www.zju.edu.cn), China
 
 ## Grants and Fellowships
 - **Marie Skłodowska-Curie Actions (MSCA) Individual Fellowship**, 2020-2024, Early Stage Researcher (ESR), Grant Number: 864415
