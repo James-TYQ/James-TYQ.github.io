@@ -10,7 +10,7 @@
 <li><strong>[MAY. 2025]</strong> Our new benchmark <span style="color:#e74d3c"><a href="https://arxiv.org/abs/2505.15094">SciCUEval</a></span> has been released!</li>
 <li><strong>[DEC. 2024]</strong> 🎉🎉 One co-first authored paper has been accepted by ICKG 2024.</li>
 <li><strong>[SEP. 2024]</strong> Joined SSAIL Lab advised by Prof. Minjia Zhang on Evaluating LLMs in medicine.</li>
-<li><strong>[AUG. 2024]</strong> Conduct a half-year academic visit to UIUC in Illinois, USA..</li>
+<li><strong>[AUG. 2024]</strong> Conduct a half-year academic visit to UIUC in Illinois, USA.</li>
 <li><strong>[JUN. 2024]</strong> Joined ZJUKG Lab advised by Prof. Huajun Chen on LLMs and AI4Science.</li>
 
 <!-- <li><strong>[DEC. 2023]</strong> The <span style="color:#e74d3c"><a href="https://goindex.chen-song90.workers.dev">Googledrive index</a></span> has been now integrated to the webblog.</li>
@@ -30,5 +30,4 @@
 <li><strong>[DEC. 2022]</strong> Secondment at the  <a href="https://www.aalto.fi/en/department-of-applied-physics">department Applied Physics of Aalto University</a>, in collarboartion with professor <span style="color:#e74d3c"><a href="https://www.aalto.fi/en/people/sebastiaan-van-dijken">Sebastiaan van Dijken.</a></span></li>
 <li><strong>[JUN. 2022]</strong> Secondment at the  <a href="https://www.aalto.fi/en/department-of-applied-physics">department Applied Physics of Aalto University</a>, in collarboartion with professor <span style="color:#e74d3c"><a href="https://www.aalto.fi/en/people/sebastiaan-van-dijken">Sebastiaan van Dijken.</a></span></li>
 <li><strong>[JUN. 2021]</strong> Join the <a href="https://www.spin-ion.com/">Spin-Ion Technologies</a>, involved in the <a href="https://bemagic-etn.eu/">BeMAGIC</a> program (Marie Sklodowska-Curie European Training Network).</li> -->
-</div>
 </ul>
