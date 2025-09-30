@@ -23,12 +23,12 @@ enable_last_update: false
 google_scholar: https://scholar.google.com/citations?user=DJSQsXEAAAAJ&hl=en
 github_link: https://github.com/James-TYQ
 linkedin: https://www.linkedin.com/in/yuqi-tang-89b581334/
-instagram: https://www.instagram.com/jamestt0396/
+researchgate: https://www.researchgate.net/scientific-contributions/Yuqi-Tang-2306085206
 
 # Images 
 avatar: ./assets/img/yuqi.jpg
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: ./assets/img/favicon.jpg
+favicon_dark: ./assets/img/favicon-dark.jpg
 
 # Footnotes
 # Footnote
