@@ -29,10 +29,6 @@ During my undergraduate studies, I interned at ZJUKG in ZJU, supervised by Dr. [
 
 {% include_relative _includes/news.md %}
 
-{% include_relative _includes/projects.md %}
-
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/conference.md %}
 
 {% include_relative _includes/contact.md %}
