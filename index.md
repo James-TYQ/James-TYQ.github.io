@@ -20,7 +20,7 @@ During my undergraduate studies, I interned at ZJUKG in ZJU, supervised by Dr. [
 
 ## Education
 - **B.S. in Computer Engineering**, 2022 - 2026 (Expected), [University of Illinois Urbana-Champaign](https://illinois.edu), USA
-- **B.E. in Electrical and Computer Engineering**, 2022 - 2026 (Expected), [Zhejiang University](https://www.zju.edu.cn), China
+- **B.E. in Computer Engineering**, 2022 - 2026 (Expected), [Zhejiang University](https://www.zju.edu.cn), China
 
 ## Honors and Awards
 - **Zhejiang University Second-class Scholarship**, June 2024
