@@ -25,26 +25,33 @@ The code is written in Markdown and is intended to be used in a website or web p
 <ul class="pub-list">
   <li>
     <a href="https://arxiv.org/pdf/2508.00454">Learning an Efficient Multi-Turn Dialogue Evaluator from Multiple Judges</a>.<br>
-    <span class="pub-authors"><strong>Yuqi Tang</strong>, Kehua Feng, Yunfeng Wang, Zhiwen Chen, Chengfei Lv, Gang Yu, Qiang Zhang, Keyan Ding</span>
-    <span class="pub-venue">arXiv preprint</span><br>
+    <span class="pub-authors"><strong>Yuqi Tang</strong>, Kehua Feng, Yunfeng Wang, Zhiwen Chen, Chengfei Lv, Gang Yu, Qiang Zhang, Keyan Ding.</span><br>
+    <span class="pub-venue"><strong>arXiv preprint.</strong></span>
     <a class="pub-btn pdf" href="https://arxiv.org/abs/2508.00454" target="_blank">PDF</a>
     <a class="pub-btn code" href="https://github.com/James-TYQ/MTDEval" target="_blank">Code</a>
   </li>
 
   <li>
-    <a href="https://example.com/llm-mechanisms.pdf">Knowledge Mechanisms in Large Language Models: A Survey and Perspective</a>.<br>
-    <span class="pub-authors">Mengruo Wang, Yunzhi Yao, Ziwen Xu, <strong>Yuqi Tang</strong>, Shumin Deng, Ningyu Zhang.</span>
-    <span class="pub-venue">Findings of EMNLP 2024.</span><br>
-    <a class="pub-btn pdf" href="https://example.com/llm-mechanisms.pdf" target="_blank">PDF</a>
-    <a class="pub-btn code" href="https://github.com/yourrepo2" target="_blank">Code</a>
+    <a href="https://arxiv.org/pdf/2505.15094">SciCUEval: A Comprehensive Dataset for Evaluating Scientific Context Understanding in Large Language Models</a>.<br>
+    <span class="pub-authors">Jing Yu*, <strong>Yuqi Tang*</strong>, Kehua Feng, Mingyang Rao, Lei Liang, Zhiqiang Zhang, Mengshu Sun, Wen Zhang, Qiang Zhang, Keyan Ding, Huajun Chen.</span><br>
+    <span class="pub-venue">arXiv preprint.</span>
+    <a class="pub-btn pdf" href="https://arxiv.org/abs/2505.15094" target="_blank">PDF</a>
+    <a class="pub-btn code" href="https://github.com/HICAI-ZJU/SciCUEval" target="_blank">Code</a>
   </li>
 
   <li>
-    <a href="https://example.com/instructie.pdf">InstructIE: A Bilingual Instruction-based Information Extraction Dataset</a>.<br>
-    <span class="pub-authors">Honghao Gui, <strong>Yuqi Tang</strong>, Huajun Chen, Ningyu Zhang.</span>
-    <span class="pub-venue">ISWC 2024.</span><br>
-    <a class="pub-btn pdf" href="https://example.com/instructie.pdf" target="_blank">PDF</a>
-    <a class="pub-btn code" href="https://github.com/yourrepo3" target="_blank">Code</a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10884365/">Generating Multiple Choice Questions from Scientific Literature via Large Language Models</a>.<br>
+    <span class="pub-authors">Shunyang Luo*, <strong>Yuqi Tang*</strong>, Mingyuan Jiang, Kehua Feng, Qiang Zhang, Keyan Ding.</span><br>
+    <span class="pub-venue">ICKG 2024.</span>
+    <a class="pub-btn pdf" href="https://ieeexplore.ieee.org/document/10884365" target="_blank">PDF</a>
+  </li>
+
+  <li>
+    <a href="https://arxiv.org/pdf/2505.15094">SciKnowEval: Evaluating Multi-level Scientific Knowledge of Large Language Models</a>.<br>
+    <span class="pub-authors">Kehua Feng, Xinyi Shen, Weijie Wang, Xiang Zhuang, <strong>Yuqi Tang</strong>, Qiang Zhang, Keyan Ding.</span><br>
+    <span class="pub-venue">NeurIPS 2025 AI for Science Workshop.</span>
+    <a class="pub-btn pdf" href="https://arxiv.org/pdf/2406.09098" target="_blank">PDF</a>
+    <a class="pub-btn code" href="https://github.com/HICAI-ZJU/SciKnowEval" target="_blank">Code</a>
   </li>
 </ul>
 
