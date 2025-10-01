@@ -24,11 +24,11 @@ The code is written in Markdown and is intended to be used in a website or web p
 
 <ul class="pub-list">
   <li>
-    <a href="https://example.com/paper.pdf">SynWorld: Virtual Scenario Synthesis for Agentic Action Knowledge Refinement</a>.<br>
-    <span class="pub-authors">Runnan Fang, Xiaobin Wang, Yuan Liang, <strong>Yuqi Tang</strong>, Fei Huang, Huajun Chen.</span>
-    <span class="pub-venue">Proceedings of ACL 2025.</span><br>
-    <a class="pub-btn pdf" href="https://example.com/paper.pdf" target="_blank">PDF</a>
-    <a class="pub-btn code" href="https://github.com/yourrepo" target="_blank">Code</a>
+    <a href="https://arxiv.org/pdf/2508.00454">Learning an Efficient Multi-Turn Dialogue Evaluator from Multiple Judges</a>.<br>
+    <span class="pub-authors"><strong>Yuqi Tang</strong>, Kehua Feng, Yunfeng Wang, Zhiwen Chen, Chengfei Lv, Gang Yu, Qiang Zhang, Keyan Ding</span>
+    <span class="pub-venue">arXiv preprint</span><br>
+    <a class="pub-btn pdf" href="https://arxiv.org/abs/2508.00454" target="_blank">PDF</a>
+    <a class="pub-btn code" href="https://github.com/James-TYQ/MTDEval" target="_blank">Code</a>
   </li>
 
   <li>
