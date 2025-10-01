@@ -2,16 +2,16 @@
 
 <h2 style="margin: 30px 0px 10px;">Contact</h2>
 
-<p><strong>Miscellanea:</strong></p>
+<p><strong>Hobby:</strong></p>
 
 <ul style="list-style: none; padding-left: 0;">
-  <li>
+  <li style="margin-bottom: 6px;">
     ⚫ I love playing chess (Weiqi), I won 5th Place in Zhejiang Provincial Chess Competition, 4th Place in the Hangzhou Chess Competition, and 1st Place in ZJU Weiqi Competition.
   </li>
-  <li>
-    I like doing and watching sports, especially 🏀 basketball, 🏓 table tennis, and 🏸 badminton. I won the Men's Doubles Championship in the 2024 ZJU Campus Table Tennis Tournament.
+  <li style="margin-bottom: 6px;">
+    🏓 I like doing and watching sports, especially basketball, table tennis, and badminton. I won the Men's Doubles Championship in the 2024 ZJU Campus Table Tennis Tournament.
   </li>
-  <li>
+  <li style="margin-bottom: 6px;">
     🎮 I like playing FPS and RPG games, e.g. CS2 and Cyberpunk 2077.
   </li>
 </ul>
