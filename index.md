@@ -6,9 +6,9 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am currently a final-year dual degree undergraduate student at [Department of Electrical and Computer Engineering](https://ece.illinois.edu/) at [University of Illinois Urbana-Champaign](https://illinois.edu) and and at [ZJUI Institute](https://zjui.intl.zju.edu.cn) at [Zhejiang University](https://www.zju.edu.cn), working under the supervision of Prof. [Huajun Chen](https://person.zju.edu.cn/en/huajun) and Prof. [Qiang Zhang](https://person.zju.edu.cn/en/zhangqiang). 
+I am currently a final-year dual degree undergraduate student at [Department of Electrical and Computer Engineering](https://ece.illinois.edu/) at [University of Illinois Urbana-Champaign](https://illinois.edu) and at [ZJUI Institute](https://zjui.intl.zju.edu.cn) at [Zhejiang University](https://www.zju.edu.cn), working under the supervision of Prof. [Huajun Chen](https://person.zju.edu.cn/en/huajun) and Prof. [Qiang Zhang](https://person.zju.edu.cn/en/zhangqiang). 
 
-During my undergraduate studies, I interned at ZJUKG in ZJU, supervised by Dr. [Keyan Ding](https://scholar.google.com/citations?user=A7u-ZowAAAAJ&hl=zh-CN) and interned at SSAIL in UIUC, supervised by Prof. [Minjia Zhang](https://minjiazhang.github.io). My research involves Large Language Models (LLMs) Evaluation and Fine-Tuning, Multimodal Retrieval-augmented Generation (MRAG), AI for Science (AI4Science), and Applications.
+During my undergraduate studies, I interned at ZJUKG in ZJU, supervised by Dr. [Keyan Ding](https://scholar.google.com/citations?user=A7u-ZowAAAAJ&hl=zh-CN) and interned at SSAIL in UIUC, supervised by Prof. [Minjia Zhang](https://minjiazhang.github.io). My research involves Large Language Models (LLMs) Evaluation and Fine-Tuning, Multimodal Retrieval-augmented Generation (MRAG), AI for Science (AI4Science), and its Applications.
 
 ## Research Interest
 
